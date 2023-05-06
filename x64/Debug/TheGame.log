@@ -1,0 +1,17 @@
+﻿  main.cpp
+D:\C++\Program\PROJECT\TheGame\CommonFunction.h(48,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+D:\C++\Program\PROJECT\TheGame\CommonFunction.h(55,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\C++\Program\PROJECT\TheGame\MainCharacter.h(56,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.h(57,49): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.h(72,37): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.h(73,48): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+D:\C++\Program\PROJECT\TheGame\MainCharacter.h(74,48): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+D:\C++\Program\PROJECT\TheGame\main.cpp(120,38): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\C++\Program\PROJECT\TheGame\main.cpp(123,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\main.cpp(124,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\main.cpp(146,38): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\C++\Program\PROJECT\TheGame\main.cpp(149,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\main.cpp(150,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\C++\Program\PROJECT\TheGame\main.cpp(168,38): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\C++\Program\PROJECT\TheGame\main.cpp(794,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  TheGame.vcxproj -> D:\C++\Program\PROJECT\TheGame\x64\Debug\TheGame.exe
