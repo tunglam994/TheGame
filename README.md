@@ -22,16 +22,24 @@ by Ngô Tùng Lâm - 22028092 - K67-CACLC2
 - Nhấn W để nhảy lên
 - Nhấn A để di chuyển sang trái
 - Nhấn D để di chuyển sang phải
+
+![alt](https://github.com/tunglam994/TheGame/blob/main/img/PREVIEW2.png)
+
 - Nhấn U để bắn ra đạn nước
 - Nhấn I để sử dụng chiêu thức tối thượng, triệu hồi một cơn sóng thần, tiêu diệt mọi kẻ địch cản đường (chỉ dùng được khi thanh nộ đã đầy)
+
+![alt](https://github.com/tunglam994/TheGame/blob/main/img/PREVIEW3.png)
 
 **Cách chơi:**
 - Người chơi điều khiển nhân vật để đánh bại và vượt qua các con quái.
 - Để chiến thắng, người chơi cần phải đánh bại của con boss của game - The Bringer of Death để chiến thắng.
 - Nếu nhân vật hết máu trước khi đánh bại boss, người chơi sẽ thua và nếu muốn chiến đấu tiếp, người chơi phải chơi lại từ đầu. 
 
+![alt](https://github.com/tunglam994/TheGame/blob/main/img/PREVIEW4.png)
+
 ## **TÍNH NĂNG**
 
+![alt](https://github.com/tunglam994/TheGame/blob/main/img/StartMenu%20with%20buttons.png)
 - Menu sở hữu nhiều nút chức năng:
   + Nút PLAY: bắt đầu game
   + Nút INSTRUCTION: hướng dẫn cách chơi 
