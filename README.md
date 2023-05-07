@@ -57,23 +57,23 @@ by Ngô Tùng Lâm - 22028092 - K67-CACLC2
 
 ##### Image:
 - Map: 
-https://ansimuz.itch.io/magic-cliffs-environment
+ https://ansimuz.itch.io/magic-cliffs-environment
 
 - Wizard:
-https://craftpix.net/freebies/free-wizard-sprite-sheets-pixel-art/
-https://www.shutterstock.com/vi/image-vector/sprite-sheet-water-attack-ice-magic-590599895
-https://www.shutterstock.com/vi/image-vector/water-splash-vfx-animation-sprite-sheet-2160601503
+ https://craftpix.net/freebies/free-wizard-sprite-sheets-pixel-art/
+ https://www.shutterstock.com/vi/image-vector/sprite-sheet-water-attack-ice-magic-590599895
+ https://www.shutterstock.com/vi/image-vector/water-splash-vfx-animation-sprite-sheet-2160601503
 
 - Enemies:
-https://free-game-assets.itch.io/free-forest-bosses-pixel-art-sprite-sheet-pack
-https://pimen.itch.io/wind
+ https://free-game-assets.itch.io/free-forest-bosses-pixel-art-sprite-sheet-pack
+ https://pimen.itch.io/wind
 
 - Boss:
-https://clembod.itch.io/bringer-of-death-free?download
+ https://clembod.itch.io/bringer-of-death-free?download
 
 - UI:
-https://paperhatlizard.itch.io/cryos-mini-gui
-https://dreammix.itch.io/keyboard-keys-for-ui
+ https://paperhatlizard.itch.io/cryos-mini-gui
+ https://dreammix.itch.io/keyboard-keys-for-ui
 
 - Music: A Place of Wonder and Beauty - Jo Wandrini
 
