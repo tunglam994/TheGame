@@ -12,7 +12,7 @@ by Ngô Tùng Lâm - 22028092 - K67-CACLC2
 ### **Cốt truyện**
 
 - Tại vùng đất hứa, sự sống ở đây đang dần bị tiêu diệt bới con quỷ chết chóc - The Bringer of Death.
-- Người chơi sẽ nhập vai một vị pháp sư hệ nước, dùng sức mạnh của mình chiến đấu với The Bringer of Death và thuộc hạ của chúng để đem lại sự sống và sự yên binh cho vùng đất hứa.
+- Người chơi sẽ nhập vai một vị pháp sư hệ nước, dùng sức mạnh của mình chiến đấu với The Bringer of Death và thuộc hạ của chúng để đem lại sự sống và yên binh cho vùng đất hứa.
 
 ![alt](https://github.com/tunglam994/TheGame/blob/main/img/PREVIEW1.png)
 
