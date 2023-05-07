@@ -4,7 +4,7 @@ by Ngô Tùng Lâm - 22028092 - K67-CACLC2
 ## **TỔNG QUAN**
 
 - The Game là game nhập vai phiêu lưu, sở hữu gameplay đơn giản, cùng với đó là các hiệu ứng hình ảnh, âm thanh bắt mắt
-- The Game được viết bởi ngôn ngữ C++ và sử dụng thư viện đồ họa SDL2.0
+- The Game được viết bởi ngôn ngữ C++ và sử dụng thư viện đồ họa SDL 2.0
 - Game demo
 
 ## **GAMEPLAY**
@@ -53,8 +53,8 @@ by Ngô Tùng Lâm - 22028092 - K67-CACLC2
  - Hình ảnh sống động, đẹp mắt
 
 ## **KIẾN THỨC SỬ DỤNG**
-- Ngôn ngữ C++: pointer, array, class, ...
-- Thư viện SDL2.0
+- Ngôn ngữ C++
+- Thư viện SDL 2.0
 
 
 ## **HƯỚNG PHÁT TRIỂN**
