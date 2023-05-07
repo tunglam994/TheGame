@@ -14,6 +14,8 @@ by Ngô Tùng Lâm - 22028092 - K67-CACLC2
 - Tại vùng đất hứa, sự sống ở đây đang dần bị tiêu diệt bới con quỷ chết chóc - The Bringer of Death.
 - Người chơi sẽ nhập vai một vị pháp sư hệ nước, dùng sức mạnh của mình chiến đấu với The Bringer of Death và thuộc hạ của chúng để đem lại sự sống và sự yên binh cho vùng đất hứa.
 
+![alt](https://github.com/tunglam994/TheGame/blob/main/img/PREVIEW1.png)
+
 ### **Luật chơi**
 
 **Thao tác:**
@@ -57,23 +59,23 @@ by Ngô Tùng Lâm - 22028092 - K67-CACLC2
 
 ##### Image:
 - Map: 
- https://ansimuz.itch.io/magic-cliffs-environment
+  - https://ansimuz.itch.io/magic-cliffs-environment
 
 - Wizard:
- https://craftpix.net/freebies/free-wizard-sprite-sheets-pixel-art/
- https://www.shutterstock.com/vi/image-vector/sprite-sheet-water-attack-ice-magic-590599895
- https://www.shutterstock.com/vi/image-vector/water-splash-vfx-animation-sprite-sheet-2160601503
+  - https://craftpix.net/freebies/free-wizard-sprite-sheets-pixel-art/
+  - https://www.shutterstock.com/vi/image-vector/sprite-sheet-water-attack-ice-magic-590599895
+  - https://www.shutterstock.com/vi/image-vector/water-splash-vfx-animation-sprite-sheet-2160601503
 
 - Enemies:
- https://free-game-assets.itch.io/free-forest-bosses-pixel-art-sprite-sheet-pack
- https://pimen.itch.io/wind
+  - https://free-game-assets.itch.io/free-forest-bosses-pixel-art-sprite-sheet-pack
+  - https://pimen.itch.io/wind
 
 - Boss:
- https://clembod.itch.io/bringer-of-death-free?download
+  - https://clembod.itch.io/bringer-of-death-free?download
 
 - UI:
- https://paperhatlizard.itch.io/cryos-mini-gui
- https://dreammix.itch.io/keyboard-keys-for-ui
+  - https://paperhatlizard.itch.io/cryos-mini-gui
+  - https://dreammix.itch.io/keyboard-keys-for-ui
 
 - Music: A Place of Wonder and Beauty - Jo Wandrini
 
